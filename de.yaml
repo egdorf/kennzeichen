@@ -1234,6 +1234,9 @@ MTK:
 MTL:
   title: "Muldentalkreis"
   state: "Sachsen"
+MUC:
+  title: "München"
+  state: "Bayern"
 MVL:
   title: "Landesreg. Mecklenburg-Vorpommern"
   state: "Mecklenburg-Vorpommern"
